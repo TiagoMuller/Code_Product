@@ -14,7 +14,7 @@ O programa utiliza a classe Scanner para obter informações do usuário, a clas
 
 O polimorfismo é utilizado através do método priceTag() implementado nas três classes de produtos, permitindo a criação de tags de preço para cada tipo de produto.
 
-#Como utilizar
+# Como utilizar
 
 Para utilizar o programa, siga os seguintes passos:
 
